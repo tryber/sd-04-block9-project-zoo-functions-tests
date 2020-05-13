@@ -1,15 +1,15 @@
 {
-  "animalsByIds": 0,
-  "animalsOlderThan": 0,
-  "employeeByName": 0,
-  "createEmployee": 0,
-  "isManager": 0,
-  "addEmployee": 0,
-  "animalCount": 0,
-  "entryCalculator": 0,
-  "animalMap": 0,
-  "schedule": 0,
-  "oldestFromFirstSpecies": 0,
-  "increasePrices": 0,
-  "employeeCoverage": 0
+  "animalsByIds": 637,
+  "animalsOlderThan": 638,
+  "employeeByName": 639,
+  "createEmployee": 640,
+  "isManager": 641,
+  "addEmployee": 642,
+  "animalCount": 643,
+  "entryCalculator": 644,
+  "animalMap": 645,
+  "schedule": 646,
+  "oldestFromFirstSpecies": 647,
+  "increasePrices": 648,
+  "employeeCoverage": 649
 }

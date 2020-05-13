@@ -1,9 +1,9 @@
 {
   "project": {
-    "name": "sd-0x-block9-project-zoo-functions",
+    "name": "tryber/sd-04-block9-project-zoo-functions",
     "description": "Projeto de ES6 e Higher Order Functions",
     "enabled": true,
-    "deadline": "YYYY-MM-DD 14:10:00",
+    "deadline": "2020-05-21 17:10:00",
     "requirements": [{
       "description": "Implemente a função animalsByIds",
       "enabled": true,
